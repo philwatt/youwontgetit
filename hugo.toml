@@ -1,0 +1,25 @@
+baseURL = "https://YOUR_GITHUB_USERNAME.github.io/youwontgetit/"
+languageCode = "en-au"
+title = "You Won't Get It"
+theme = "hugo-bearcub"
+
+# No bloat
+disableKinds = ["taxonomy", "term"]
+enableRobotsTXT = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # allows raw HTML in posts if you ever want it
+
+[params]
+  description = "Not for you."
+  dateFormat = "2 January 2006"
+  hideCredits = false
+  hideSummary = false
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
