@@ -1,3 +1,13 @@
+---
+
+title: "You Won't Get It. Too Bad, I Guess" 
+
+date: 2026-03-27
+
+draft: false
+
+---
+
 # You won't get it. Too bad, I guess
 
 This site isn't for you. Sorry, not sorry. It's for me. 
