@@ -8,8 +8,6 @@ draft: false
 
 ---
 
-# You won't get it. Too bad, I guess
-
 This site isn't for you. Sorry, not sorry. It's for me. 
 
 It's not about being the only one brave enough to tell the truth. It's about being brave enough to write down my random thoughts. For me.
